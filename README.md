@@ -10,8 +10,8 @@ To analyze employee attrition patterns using Excel and identify key factors asso
 
 
 ## Questions(KPIs)
-•	How many employees are there in total? 
-•	How many employees have left the organization? 
+-	How many employees are there in total? 
+-	How many employees have left the organization? 
 •	What is the overall employee attrition rate? 
 •	What is the average age of employees? 
 •	What is the average monthly income of employees? 
