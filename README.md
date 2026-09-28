@@ -16,3 +16,5 @@ To analyze employee attrition patterns using Excel and identify key factors asso
 - What is the average age of employees? 
 -	What is the average monthly income of employees? 
 	
+## Dashboard Interaction
+-<a href= https://github.com/Vidyatpcheettayil/HR-Employee-Attrition-Analysis-Excel/commit/00ede0a0ac3238de3e152e482900ff9666b06df8>
