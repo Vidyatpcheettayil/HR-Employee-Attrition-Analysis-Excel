@@ -29,3 +29,16 @@ To analyze employee attrition patterns using Excel and identify key factors asso
 
 	## Dashboard
 {https://github.com/Vidyatpcheettayil/HR-Employee-Attrition-Analysis-Excel/commit/00ede0a0ac3238de3e152e482900ff9666b06df8>}
+
+## Project insight
+-  1,470 employees were analyzed, with 237 employees leaving and an overall attrition rate of 16.12%. 
+-  Sales recorded 20.63% attrition, while Sales Representatives recorded 39.8%. 
+-  The 18–20 age group showed 35.8% attrition. 
+-  Employees with 0–2 years of tenure showed the highest attrition in the tenure analysis. 
+-  Job Level 1 showed 26.3% attrition, while low work-life balance (Level 1) showed 31.1%. 
+-  Travel_Rarely employees showed 27.2% attrition. 
+-  The 1,000–5,000 monthly-income group showed the highest attrition among the displayed income groups.
+
+## Final conclusion
+The analysis highlights Sales Representatives, younger and early-tenure employees, and employees with low work-life balance as key areas for further investigation. HR can focus on understanding the reasons behind higher attrition in these groups and develop targeted retention strategies based on those findings.
+
