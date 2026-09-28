@@ -26,3 +26,6 @@ To analyze employee attrition patterns using Excel and identify key factors asso
 -	Analyzed attrition across departments, job roles, age groups, tenure, job levels, overtime, business travel, monthly income, and work-life balance. 
 -	Created Pivot Charts, KPI cards, slicers, and insight cards to build an interactive dashboard. 
 -	Interpreted the results to identify employee groups with relatively higher attrition
+
+	## Dashboard
+{https://github.com/Vidyatpcheettayil/HR-Employee-Attrition-Analysis-Excel/commit/00ede0a0ac3238de3e152e482900ff9666b06df8>}
