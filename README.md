@@ -28,7 +28,7 @@ To analyze employee attrition patterns using Excel and identify key factors asso
 -	Interpreted the results to identify employee groups with relatively higher attrition
 
 	## Dashboard
-<img src ="https://github.com/Vidyatpcheettayil/HR-Employee-Attrition-Analysis-Excel/commit/00ede0a0ac3238de3e152e482900ff9666b06df8">
+<img src ="https://github.com/Vidyatpcheettayil/HR-Employee-Attrition-Analysis-Excel/commit/00ede0a0ac3238de3e152e482900ff9666b06df8" width="800">
 
 ## Project insight
 -  1,470 employees were analyzed, with 237 employees leaving and an overall attrition rate of 16.12%. 
