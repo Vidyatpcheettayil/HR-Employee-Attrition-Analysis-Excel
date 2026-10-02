@@ -16,8 +16,6 @@ To analyze employee attrition patterns using Excel and identify key factors asso
 - What is the average age of employees? 
 -	What is the average monthly income of employees? 
 	
-## Dashboard Interaction
--<a href= "https://github.com/Vidyatpcheettayil/HR-Employee-Attrition-Analysis-Excel/blob/main/HR-Employee%20Attrition%20Dashboard.png">View dashboard</a>
 
 ## Process
 -	Analyzed employee demographics, job details, income, tenure, workplace factors, and attrition. 
@@ -27,8 +25,12 @@ To analyze employee attrition patterns using Excel and identify key factors asso
 -	Created Pivot Charts, KPI cards, slicers, and insight cards to build an interactive dashboard. 
 -	Interpreted the results to identify employee groups with relatively higher attrition
 
-	## Dashboard
-![HR-Employee Attrition Dashboard.png](https://github.com/Vidyatpcheettayil/HR-Employee-Attrition-Analysis-Excel/blob/main/HR-Employee%20Attrition%20Dashboard.png)
+  ## Dashboard Interaction
+-<a href= "https://github.com/Vidyatpcheettayil/HR-Employee-Attrition-Analysis-Excel/blob/main/HR-Employee%20Attrition%20Dashboard.png">View dashboard</a>
+
+
+## Dashboard
+ ![HR-Employee Attrition Dashboard.png](https://github.com/Vidyatpcheettayil/HR-Employee-Attrition-Analysis-Excel/blob/main/HR-Employee%20Attrition%20Dashboard.png)
 
 ## Project insight
 -  1,470 employees were analyzed, with 237 employees leaving and an overall attrition rate of 16.12%. 
